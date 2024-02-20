@@ -90,6 +90,7 @@
     * [Rod Cutting](https://github.com/TheAlgorithms/Rust/blob/master/src/dynamic_programming/rod_cutting.rs)
     * [Snail](https://github.com/TheAlgorithms/Rust/blob/master/src/dynamic_programming/snail.rs)
     * [Subset Generation](https://github.com/TheAlgorithms/Rust/blob/master/src/dynamic_programming/subset_generation.rs)
+    * [Word Break](https://github.com/TheAlgorithms/Rust/blob/master/src/dynamic_programming/word_break.rs)
   * General
     * [Convex Hull](https://github.com/TheAlgorithms/Rust/blob/master/src/general/convex_hull.rs)
     * [Fisher Yates Shuffle](https://github.com/TheAlgorithms/Rust/blob/master/src/general/fisher_yates_shuffle.rs)
@@ -143,13 +144,13 @@
     * [K Means](https://github.com/TheAlgorithms/Rust/blob/master/src/machine_learning/k_means.rs)
     * [Linear Regression](https://github.com/TheAlgorithms/Rust/blob/master/src/machine_learning/linear_regression.rs)
     * Loss Function
+      * [Hinge Loss](https://github.com/TheAlgorithms/Rust/blob/master/src/machine_learning/loss_function/hinge_loss.rs)
       * [Kl Divergence Loss](https://github.com/TheAlgorithms/Rust/blob/master/src/machine_learning/loss_function/kl_divergence_loss.rs)
       * [Mean Absolute Error Loss](https://github.com/TheAlgorithms/Rust/blob/master/src/machine_learning/loss_function/mean_absolute_error_loss.rs)
       * [Mean Squared Error Loss](https://github.com/TheAlgorithms/Rust/blob/master/src/machine_learning/loss_function/mean_squared_error_loss.rs)
     * Optimization
       * [Adam](https://github.com/TheAlgorithms/Rust/blob/master/src/machine_learning/optimization/adam.rs)
       * [Gradient Descent](https://github.com/TheAlgorithms/Rust/blob/master/src/machine_learning/optimization/gradient_descent.rs)
-    * [Simpson](https://github.com/TheAlgorithms/Rust/blob/master/src/machine_learning/simpson.rs)
   * Math
     * [Abs](https://github.com/TheAlgorithms/Rust/blob/master/src/math/abs.rs)
     * [Aliquot Sum](https://github.com/TheAlgorithms/Rust/blob/master/src/math/aliquot_sum.rs)
@@ -217,7 +218,7 @@
     * [Sieve Of Eratosthenes](https://github.com/TheAlgorithms/Rust/blob/master/src/math/sieve_of_eratosthenes.rs)
     * [Sigmoid](https://github.com/TheAlgorithms/Rust/blob/master/src/math/sigmoid.rs)
     * [Signum](https://github.com/TheAlgorithms/Rust/blob/master/src/math/signum.rs)
-    * [Simpson Integration](https://github.com/TheAlgorithms/Rust/blob/master/src/math/simpson_integration.rs)
+    * [Simpsons Integration](https://github.com/TheAlgorithms/Rust/blob/master/src/math/simpsons_integration.rs)
     * [Softmax](https://github.com/TheAlgorithms/Rust/blob/master/src/math/softmax.rs)
     * [Sprague Grundy Theorem](https://github.com/TheAlgorithms/Rust/blob/master/src/math/sprague_grundy_theorem.rs)
     * [Square Pyramidal Numbers](https://github.com/TheAlgorithms/Rust/blob/master/src/math/square_pyramidal_numbers.rs)
@@ -301,8 +302,10 @@
     * [Jaro Winkler Distance](https://github.com/TheAlgorithms/Rust/blob/master/src/string/jaro_winkler_distance.rs)
     * [Knuth Morris Pratt](https://github.com/TheAlgorithms/Rust/blob/master/src/string/knuth_morris_pratt.rs)
     * [Levenshtein Distance](https://github.com/TheAlgorithms/Rust/blob/master/src/string/levenshtein_distance.rs)
+    * [Lipogram](https://github.com/TheAlgorithms/Rust/blob/master/src/string/lipogram.rs)
     * [Manacher](https://github.com/TheAlgorithms/Rust/blob/master/src/string/manacher.rs)
     * [Palindrome](https://github.com/TheAlgorithms/Rust/blob/master/src/string/palindrome.rs)
+    * [Pangram](https://github.com/TheAlgorithms/Rust/blob/master/src/string/pangram.rs)
     * [Rabin Karp](https://github.com/TheAlgorithms/Rust/blob/master/src/string/rabin_karp.rs)
     * [Reverse](https://github.com/TheAlgorithms/Rust/blob/master/src/string/reverse.rs)
     * [Run Length Encoding](https://github.com/TheAlgorithms/Rust/blob/master/src/string/run_length_encoding.rs)
